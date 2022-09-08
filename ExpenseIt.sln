@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpenseIt", "ExpenseIt.csproj", "{83D6DDF3-1CB2-4752-A04C-5CA5E38497F7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{998C282C-1765-49DD-8DBF-9999D718F86C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\watermark.png = ..\..\..\Downloads\watermark.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D6DDF3-1CB2-4752-A04C-5CA5E38497F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D6DDF3-1CB2-4752-A04C-5CA5E38497F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D6DDF3-1CB2-4752-A04C-5CA5E38497F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D6DDF3-1CB2-4752-A04C-5CA5E38497F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {917BDDD8-6743-452D-B8DB-9795F271BAF8}
+	EndGlobalSection
+EndGlobal
